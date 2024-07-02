@@ -1,0 +1,15 @@
+{
+  "name": "payment-fees-for-woo",
+  "version": "1.0.0",
+  "description": "Add payment fees for WooCommerce",
+  "main": "payment-fees-for-woo.php",
+  "scripts": {
+    "build": "wp-scripts build src/custom.js --output-path=build"
+  },
+  "author": "Nadir Seghir",
+  "license": "ISC",
+  "devDependencies": {
+    "@woocommerce/dependency-extraction-webpack-plugin": "^3.0.1",
+    "@wordpress/scripts": "^28.2.0"
+  }
+}
