@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Payment Fees for WooCommerce
- * Plugin URI: https://www.tychesoftwares.com/store/premium-plugins/payment-fees-for-woocommerce/
+ * Plugin URI: https://nadir.blog/2024/07/02/reacting-to-selected-payment-method-in-woocommerce-checkout-block/
  * Description: Add fees to WooCommerce payment gateways.
  * Version: 1.0.0
  * Author: Nadir Seghir
